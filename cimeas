@@ -1,0 +1,6 @@
+cretae table cinemas
+(
+hero_name varchar(200),
+heroine_name varchar(200),
+rating int
+);
